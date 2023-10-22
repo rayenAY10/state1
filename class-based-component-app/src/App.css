@@ -1,0 +1,38 @@
+/* App.css */
+
+/* Style for the button */
+button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 20px 30px;
+  border: none;
+  cursor: pointer;
+}
+
+/* Style for the profile section */
+div {
+  text-align: center;
+  margin: 40px;
+}
+
+h2 {
+  color: #333;
+}
+
+p {
+  color: #666;
+  margin-top: 30px;
+}
+
+img {
+  max-width: 600px;
+  height: auto;
+  border-radius: 50%;
+  margin: 30px;
+}
+
+/* Style for the time interval paragraph */
+p:last-child {
+  margin-top: 60px;
+  font-weight: bold;
+}
